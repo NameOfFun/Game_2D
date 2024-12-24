@@ -30,4 +30,6 @@ public class MovingPlatform : MonoBehaviour
             target = aPoint.position;
         }
     }
+
+
 }
